@@ -1,0 +1,25 @@
+.container-fluid{
+    height: 6900px;
+    
+   
+}
+.container{
+    height: 6800px;
+    
+}
+.row{
+height: 700px;
+    
+}
+p::first-letter{
+    
+    font-size: 120px;
+    font-family: 'Tangerine', cursive;
+    
+}
+h1::first-letter{
+    
+    font-size: 100px;
+    font-family: 'Tangerine', cursive;
+    
+}
